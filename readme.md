@@ -7,4 +7,4 @@ This project generates a QR code that links to my GitHub homepage.
 ![markQR](https://github.com/user-attachments/assets/863e9db8-6539-41ed-92a2-6c1c577fe460)
 
 ## Log of Successfully Creating the QR Code
-![Log Screenshot](log_screenshot.png)
+![Logs](https://github.com/user-attachments/assets/d2c9a162-d8da-4efb-ab89-ebba52da27d1)
